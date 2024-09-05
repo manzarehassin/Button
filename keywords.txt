@@ -1,0 +1,30 @@
+# ---------------------------------------
+# Syntax colouring for BUTTON LIBRARY
+# ---------------------------------------
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Button	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+selectMode		KEYWORD2
+timingSetup		KEYWORD2
+read			KEYWORD2
+pressed			KEYWORD2
+released		KEYWORD2
+longPress		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BTN_PULLUP			LITERAL1
+BTN_PULLDOWN		LITERAL1
+BTN_MODE_MOMENTARY	LITERAL1
+BTN_MODE_TOGGLE		LITERAL1
+BTN_MODE_PULSE		LITERAL1
