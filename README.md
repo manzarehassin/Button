@@ -1,2 +1,2 @@
 # Button
-Button Library for Arduino
+Efficient button library for Arduino platform. 
